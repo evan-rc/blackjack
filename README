@@ -1,0 +1,7 @@
+This is a project I made to practice use of classes, functions, and looping in Python.
+It is a blackjack game that features the following:
+  - Detailed display function showing cards suit and rank, also allowing for flipped cards.
+  - Allows player to double down, hit, stand
+  - Automatically calculates value of hands to determine outcome of game, accounting for Ace values of 1 vs 11.
+  - Will check for dealer or player naturals to end game early. Ends game early for dealer or player busts as well.
+  - Discards cards to a discard pile and deals new cars for next deal if player chooses to continue playing.
